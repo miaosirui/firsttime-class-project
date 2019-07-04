@@ -1,2 +1,2 @@
 # firsttime-class-project
-七月四号课堂作业
+开源硬件实战作业
